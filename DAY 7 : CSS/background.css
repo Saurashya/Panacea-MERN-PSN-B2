@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    background: url('https://static.vecteezy.com/system/resources/thumbnails/036/324/708/small/ai-generated-picture-of-a-tiger-walking-in-the-forest-photo.jpg');
+    font-size: 72px;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
